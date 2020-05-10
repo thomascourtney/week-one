@@ -2,4 +2,4 @@
 
 Phew, what a week!
 
-[Here's a link to google](http://google.com
+[Here's a link to google](http://google.com)
