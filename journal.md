@@ -24,7 +24,7 @@
 - Signing in and email verification were very straighforward
 
 - Have not tried to add anything to course platform yet
-  - looking forward to do so in the following week
+  - Looking forward to do so in the following week
   
 ## Zotero
 
