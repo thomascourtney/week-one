@@ -43,4 +43,4 @@
 
 - However, the HIST 3814 group was not accessible due to the expired link
 
-- This method of communicating is superior to email due to it's quick exchange among students and instructors
+- This method of communicating is superior to email due to the possibility of quick conversational exchange among students and instructors
