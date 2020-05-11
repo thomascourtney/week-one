@@ -3,7 +3,7 @@
 ## Github
 
 - Very straightforward intructions on the course website
-  - The documented images were exrtremely helpful!
+  - The documented images were extremely helpful!
 
 - Easy verification with Carleton email
 
@@ -19,4 +19,16 @@
 
 ## Hypothesis
 
-- 
+- The video and images that were presented on the course website were very helpful for first time users
+
+- Signing in and email verification were very straighforward
+
+- Have not tried to add anything to course platform yet
+  - looking forward to do so in the following week
+  
+## Zotero
+
+- Download was very easy
+  - The online tutorial was very helpful for a new user
+
+- Started exploring Zotero and playing around with the different functions
