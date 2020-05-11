@@ -32,3 +32,15 @@
   - The online tutorial was very helpful for a new user
 
 - Started exploring Zotero and playing around with the different functions
+  - The concept of the application was unclear at the beginning
+  - Through futher googling about the application, my understanding became greater
+  
+- The amount of available style guides is impressive
+
+## Discord
+
+- Creating an account and navigating the website was very elementary
+
+- However, the HIST 3814 group was not accessible due to the expired link
+
+- This method of communicating is superior to email due to it's quick exchange among students and instructors
