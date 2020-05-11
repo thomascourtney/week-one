@@ -3,6 +3,7 @@
 ## Github
 
 - Very straightforward intructions on the course website
+  - The documented images were exrtremely helpful!
 
 - Easy verification with Carleton email
 
@@ -12,6 +13,7 @@
   - Some exploring and testing had to be done
 
 - Tested out creating new repositories and text documents several times
+  - Organized repositories on a weekly basis
 
 - Had to get familiar with the coding system
 
